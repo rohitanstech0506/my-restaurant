@@ -2,7 +2,7 @@ import { Star } from 'lucide-react'
 import Animated from '../Components/Animated'
 
 const avatars = [
-  "/assets/user-1.jpeg",
+  "{import.meta.evn.BASE_URL}assets/user-1.jpeg",
   "/assets/user-2.jpeg",
   "/assets/user-3.jpeg",
   "/assets/user-4.jpeg",
